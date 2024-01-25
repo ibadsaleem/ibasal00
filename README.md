@@ -35,3 +35,6 @@
 
 # Way Solving this Problem:
  <p>The Problem is solved using GPT Model 2 and connected to API using Flask (Python). It currently gives the accuracy of around 70% and with more fine tuning of hyper parameters the accuracy can be improved. Above mentioned steps provides the way running the code to run FAST API</p>
+
+## Note
+    There are model files which arent uploaded on the github repo due to their huge file size
