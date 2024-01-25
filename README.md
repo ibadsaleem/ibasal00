@@ -1,4 +1,4 @@
-Coding Challenge Demonstration
+<h1> Coding Challenge Demonstration  </h1>
 
 ## Steps to install
 
